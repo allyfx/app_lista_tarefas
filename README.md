@@ -1,6 +1,6 @@
-# 📋 Task List (Lista Tarefas)
+<h1 align="center">📋 Task List (Lista Tarefas)</h1>
 
-Task List is an application made during the Web Development course to study PHP with PDO and mysql database.
+<p align="center">Task List is an application made during the Web Development course to study PHP with PDO and mysql database.</p>
 
 ### 💡 What does it do?
 It allows you to create new tasks, edit them, mark them as completed and remove them.
